@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Rust-SelfStudy"
+name = "rust_self_study"
 version = "0.1.0"
